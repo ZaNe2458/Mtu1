@@ -4,5 +4,8 @@ int main(){
   int i=8;
   cout<<i;
   cout<<"\nname";
-  class 
+class Mtu{
+  private:
+  int nas;
+  int course;
 }
