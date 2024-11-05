@@ -4,5 +4,6 @@ int main(){
   int i=8;
   cout<<i;
   cout<<"\nname";
+  cout<<"\nC";
   class 
 }
