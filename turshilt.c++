@@ -9,3 +9,4 @@ class Mtu{
   int nas;
   int course;
 }
+өтбыйлөы
